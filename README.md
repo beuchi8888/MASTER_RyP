@@ -36,14 +36,14 @@ Abre el notebook (nombre_del_notebook.ipynb) en Google Colab o Jupyter Notebook.
 Ejecuta las celdas en orden. Asegúrate de instalar las dependencias como se describe en la sección de instalación.
 Explora los ejemplos para entender cómo funcionan los sistemas de control difuso.
 
-# Ejemplo de Tipping System (Propinas)
+# Ejemplo de tipping system (propinas)
 El sistema de propinas toma como entrada la calidad del servicio y la calidad de la comida, y produce una propina recomendada.
 
-# Ejemplo de Battery Protection System (Protección de Batería)
+# Ejemplo de battery protection system (protección de batería)
 Este sistema evalúa la temperatura ambiente para poder así proteger la batería. Y estudia si esta se puede poner en funcionamiento según la temperatura ambiente, su estado de carga (SoC) y si la red eléctrica tiene demanda o excedente, para determinar la acción de protección adecuada (ej. standby, recirculation, heating). 
 Se prueban diferentes escenarios para demostrar el comportamiento del sistema.
 
-# Estructura del Código
+# Estructura del código
 
 Definición de Variables: Creación de Antecedentes (entradas) y Consecuentes (salidas).
 Funciones de pertenencia: Asignación de funciones de pertenencia (ej. trimf, trapmf) a las variables.
