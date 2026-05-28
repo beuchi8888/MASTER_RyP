@@ -1,4 +1,4 @@
-# MASTER_RyP
+# Sistema de Control Difuso para Baterias (Act1)
 
 ## Sistemas de Control Difuso con scikit-fuzzy
 
